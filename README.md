@@ -159,3 +159,4 @@ def arithmetic_arranger(problems, show_answers=False):
         arranged_problems = '\n'.join([top_line, bot_line, dash_line])
         
     return arranged_problems
+    
